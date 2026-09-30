@@ -859,11 +859,10 @@ Every `.js` file under `src/commands` is imported at startup. That directory mus
 
 - [`amiudmodz`](https://www.npmjs.com/package/amiudmodz) — actively maintained Baileys fork used as the socket library
 - [Baileys](https://github.com/WhiskeySockets/Baileys) — upstream WhatsApp Web library
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) — media extraction
-- [FFmpeg](https://ffmpeg.org/) — audio transcoding
-- [Express](https://expressjs.com/) — control plane
-- AI providers: Google Gemini, Mistral, Groq, OpenRouter, Cerebras, Pollinations, Kyrexi
+- [UDMODZ](udmodz.site) — for baileys and kyrexi intergritation
+- [AI Providers]
+
 
 ## License
 
-ISC — see `package.json`.
+ISC/MIT — see `package.json`.
