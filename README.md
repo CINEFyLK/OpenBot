@@ -859,7 +859,7 @@ Every `.js` file under `src/commands` is imported at startup. That directory mus
 
 - [`amiudmodz`](https://www.npmjs.com/package/amiudmodz) — actively maintained Baileys fork used as the socket library
 - [Baileys](https://github.com/WhiskeySockets/Baileys) — upstream WhatsApp Web library
-- [UDMODZ](udmodz.site) — for baileys and kyrexi intergritation
+- [UDMODZ](https://udmodz.site) — for baileys and kyrexi intergritation
 - [AI Providers]
 
 
