@@ -3,8 +3,9 @@
 A multi-provider WhatsApp automation bot built on the [`amiudmodz`](https://www.npmjs.com/package/amiudmodz) fork of [Baileys](https://github.com/WhiskeySockets/Baileys), with an Express control plane for pairing, session lifecycle management, and live status.
 
 > **Runtime:** Node.js 18+ · ESM (`"type": "module"`) · top-level `await` entry point
-> **Package name:** `angel-glitchers-bot` · **License:** ISC
-
+> **Package name:** `OpenBot` · **License:** ISC/MiT
+---
+<img src="images/image.png" alt="CINEFy Pro Interface" width="92%" style="border-radius: 20px; border: 3px solid #00ff00; box-shadow: 0 0 60px rgba(0, 255, 0, 0.35); margin-bottom: 25px;" />
 ---
 
 ## Table of Contents
