@@ -6,7 +6,7 @@ A multi-provider WhatsApp automation bot built on the [`amiudmodz`](https://www.
 > **Package name:** `OpenBot` · **License:** ISC/MiT
 ---
 <img src="images/image.png" alt="CINEFy Pro Interface" width="92%" style="border-radius: 20px; border: 3px solid #00ff00; box-shadow: 0 0 60px rgba(0, 255, 0, 0.35); margin-bottom: 25px;" />
----
+
 
 ## Table of Contents
 
